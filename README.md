@@ -1,2 +1,2 @@
 # Picklez-Website
-Website for Pick Business
+Website for Pickle Business
